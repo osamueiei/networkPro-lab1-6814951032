@@ -1,4 +1,4 @@
-<img width="1085" height="222" alt="result_UDP" src="https://github.com/user-attachments/assets/6facecd9-8a8d-4083-9be6-c1044b0d5d07" />﻿# networkPro-lab1-6814951032
+
 # รายงานผลการทดลอง: Network Programming Lab 1
 
 ### ข้อมูลผู้จัดทำ
